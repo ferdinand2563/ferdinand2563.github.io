@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : "Wang Tao"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/siteImages/avatar.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Developer"
   location         : "Guangzhou"
   email            : ga0wen256@gmail.com
@@ -143,13 +143,13 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url:
+      url: "https://x.com/okita_umii"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: "https://github.com/ferdinand2563"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
