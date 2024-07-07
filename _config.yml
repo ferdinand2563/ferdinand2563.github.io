@@ -121,7 +121,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:ga0wen256@email.com"
+      # url: "mailto:ga0wen256@email.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -323,3 +323,10 @@ defaults:
       comments: # true
       share: true
       related: true
+  
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
